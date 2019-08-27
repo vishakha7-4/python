@@ -1,6 +1,4 @@
-# factorial 
-
-num_inputs = int(input("Number of inputs: "))
+num_inputs = int(input())
 
 
 for inputs in range(num_inputs):
@@ -12,4 +10,3 @@ for inputs in range(num_inputs):
 	
 	print(num)
 		
-				
